@@ -1,0 +1,3 @@
+# LocationforRCMP
+LocationforRCMP
+certain word prompt sentence not me, voice change, word swap, not able to communicate through silencetalk
